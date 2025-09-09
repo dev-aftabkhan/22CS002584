@@ -14,3 +14,13 @@
 {"method":"POST","url":"/api/url","status":201,"duration":"111ms","timestamp":"2025-09-09T08:17:35.901Z"}
 {"method":"GET","url":"/yt3","status":302,"duration":"2022ms","timestamp":"2025-09-09T08:17:42.786Z"}
 {"method":"GET","url":"/api/url/yt3","status":200,"duration":"444ms","timestamp":"2025-09-09T08:23:03.704Z"}
+{"method":"GET","url":"/api/url/yt2","status":200,"duration":"256ms","timestamp":"2025-09-09T08:34:38.612Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"113ms","timestamp":"2025-09-09T12:55:11.490Z"}
+{"method":"GET","url":"/test","status":302,"duration":"133ms","timestamp":"2025-09-09T12:55:54.536Z"}
+{"method":"GET","url":"/api/url/test","status":200,"duration":"41ms","timestamp":"2025-09-09T12:57:12.886Z"}
+{"method":"POST","url":"/api/url/","status":400,"duration":"40ms","timestamp":"2025-09-09T13:00:27.710Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"105ms","timestamp":"2025-09-09T13:00:52.939Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"81ms","timestamp":"2025-09-09T13:02:31.436Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"93ms","timestamp":"2025-09-09T13:05:04.667Z"}
+{"method":"GET","url":"/api/url/test","status":304,"duration":"43ms","timestamp":"2025-09-09T13:06:33.494Z"}
+{"method":"GET","url":"/api/url/test","status":304,"duration":"41ms","timestamp":"2025-09-09T13:08:51.349Z"}
