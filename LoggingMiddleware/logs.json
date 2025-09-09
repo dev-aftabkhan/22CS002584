@@ -5,3 +5,12 @@
 {"method":"GET","url":"/mycode1","status":302,"duration":"259ms","timestamp":"2025-09-09T07:28:37.087Z"}
 {"method":"GET","url":"/api/url/mycode","status":200,"duration":"238ms","timestamp":"2025-09-09T07:32:29.639Z"}
 {"method":"GET","url":"/api/url/mycode1","status":200,"duration":"89ms","timestamp":"2025-09-09T07:32:41.775Z"}
+{"method":"POST","url":"/api/url/","status":400,"duration":"2078ms","timestamp":"2025-09-09T08:05:58.290Z"}
+{"method":"POST","url":"/api/url/","status":400,"duration":"128ms","timestamp":"2025-09-09T08:06:15.232Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"142ms","timestamp":"2025-09-09T08:06:34.504Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"1893ms","timestamp":"2025-09-09T08:10:23.582Z"}
+{"method":"GET","url":"/undefined","status":404,"duration":"1340ms","timestamp":"2025-09-09T08:10:31.051Z"}
+{"method":"GET","url":"/favicon.ico","status":404,"duration":"122ms","timestamp":"2025-09-09T08:10:31.246Z"}
+{"method":"POST","url":"/api/url","status":201,"duration":"111ms","timestamp":"2025-09-09T08:17:35.901Z"}
+{"method":"GET","url":"/yt3","status":302,"duration":"2022ms","timestamp":"2025-09-09T08:17:42.786Z"}
+{"method":"GET","url":"/api/url/yt3","status":200,"duration":"444ms","timestamp":"2025-09-09T08:23:03.704Z"}
