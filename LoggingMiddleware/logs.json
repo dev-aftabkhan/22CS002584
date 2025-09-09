@@ -1,0 +1,7 @@
+{"method":"POST","url":"/shorturls","status":404,"duration":"2ms","timestamp":"2025-09-09T07:24:28.282Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"152ms","timestamp":"2025-09-09T07:25:19.077Z"}
+{"method":"POST","url":"/api/url/","status":400,"duration":"673ms","timestamp":"2025-09-09T07:28:17.062Z"}
+{"method":"POST","url":"/api/url/","status":201,"duration":"616ms","timestamp":"2025-09-09T07:28:31.490Z"}
+{"method":"GET","url":"/mycode1","status":302,"duration":"259ms","timestamp":"2025-09-09T07:28:37.087Z"}
+{"method":"GET","url":"/api/url/mycode","status":200,"duration":"238ms","timestamp":"2025-09-09T07:32:29.639Z"}
+{"method":"GET","url":"/api/url/mycode1","status":200,"duration":"89ms","timestamp":"2025-09-09T07:32:41.775Z"}
